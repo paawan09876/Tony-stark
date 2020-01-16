@@ -1,7 +1,9 @@
 public class Main
 {
-    public static void main(String args[])
+    public static void main(int a, int b)
     {
-      System.out.println(74+36);
-      }
-      }
+     int multi=a * b;
+     Systyem.out.println(multi);
+     }
+     }
+     
